@@ -1,6 +1,10 @@
-# Potato-Disease-Detection
+# Potato Disease Detection
+
+A deep learning model for detecting diseases directly on potato images (Early Blight, Late Blight, Healthy) using image classification.
+
 ## Overview
-A deep learning-based project that detects diseases in potato leaves using image classification. The model identifies whether a potato leaf is **Healthy**, **Early Blight**, or **Late Blight**.
+
+A computer vision project that detects diseases in potatoes using deep learning. The model classifies potato images into **Healthy**, **Early Blight**, or **Late Blight** categories.
 
 ## Features
 
