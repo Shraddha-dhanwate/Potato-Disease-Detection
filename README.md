@@ -68,6 +68,3 @@ TensorFlow, Keras, NumPy, OpenCV, Matplotlib
 * Add Grad-CAM for explainability
 * Deploy with Streamlit
 
-## License
-
-MIT License
